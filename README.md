@@ -5,6 +5,11 @@ A webview app to read comics from readcomics.website with adblocking feature.
 
   A: It takes atleast two taps to open chrome bookmarks and as lazy as I am that's too much work for me so I created this app to directly open my favourite website. You can enjoy the ease as well.
   
+**Credits**
+
+Get the adblockwebview library from <a href="https://github.com/AmniX/AdBlockedWebView-Android">here.</a>
+
+
 **Download**
 
 
